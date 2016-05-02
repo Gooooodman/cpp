@@ -9,6 +9,7 @@
 //才能访问对象的各个成员（比如A.x）
 //5.友元函数可以声明在类的公共或私有部分，不影响其意义
 //6.通常情况下，友元函数的自变量是对象
+//7.wo yao gai bian de difang 
 #include<iostream>
 using namespace std;
 class class_2;               //前置声明
